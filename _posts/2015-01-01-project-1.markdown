@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2015
 
 category: UAV robotics
-description: building nouvel algorithm of control and planning for UAV robotics in clutter environment, which are used in rescue situation
+description: Building nouvel algorithm of control and planning for UAV robotics in cluttered and dynamic environment, which are used in rescue situation
 
 ---
