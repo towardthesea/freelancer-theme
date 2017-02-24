@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2015-01-01
+img: firefly.jpg
+alt: image-alt
+project-date: 2015
+client: University of Genova
+category: UAV robotics
+description: Building nouvel algorithm of control and motion planning for UAV robotics in cluttered and dynamic environment, which are used in rescue, e.g building map of safe regions to send human teams to.
+
+---
