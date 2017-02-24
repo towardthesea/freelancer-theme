@@ -50,10 +50,12 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> phuong (dot) nguyen [at] iit (dot) it	
   - line: iCub Facility
   - line: <a href="https://iit.it/">Istituto Italiano di Tecnologia</a>
   - line: Via Morego, 30
   - line: Genova 16163, Italy
+  
 
 
 # Credits content
