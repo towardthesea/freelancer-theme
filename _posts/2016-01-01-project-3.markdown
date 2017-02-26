@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2016-01-01
+img: secure.png
+alt: image-alt
+project-date: 2016
+client: IIT
+category: iCub Humanoid robot
+description: SECURE's aim is to train roboticists and research fellows on the cognitive and interaction level of robot safety. These fellows should then be able to cope with the new challenges for safety that come with the increased complexity in human work and living spaces. They also need to be familiar with safety concepts and solutions for a multitude of robotic platforms. Therefore, the SECURE network aims to train fellows on innovative scientific and technological requirements for safe human-robot interaction and will employ several of the currently best robot platforms in Europe.
+website: secure-robots.eu/projects/8-multisensory-representation-of-situations/
+
+---
