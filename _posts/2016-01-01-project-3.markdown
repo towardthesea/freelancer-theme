@@ -7,7 +7,7 @@ alt: image-alt
 project-date: 2016
 client: IIT
 category: iCub Humanoid robot
-description: SECURE's aim is to train roboticists and research fellows on the cognitive and interaction level of robot safety. This subproject mainly focuses to develop a complex body representation for the iCub robot utilizing visual, tactile, force and motor signals. This representation enables control of the robot in the presence of multiple potential or actual contacts. It will e.g. determine that certain configurations are convenient to support the robot during task execution and actively seek contact with the environment rather than avoiding it. This model will be also compared with an existing neuroscience model of the so-called peripersonal space representation
+description: SECURE's aim is to train roboticists and research fellows on the cognitive and interaction level of robot safety. This subproject mainly focuses on developing a complex body representation for the iCub robot utilizing visual, tactile, force and motor signals. This representation enables control of the robot in the presence of multiple potential or actual contacts. It will e.g. determine that certain configurations are convenient to support the robot during task execution and actively seek contact with the environment rather than avoiding it. This model will be also compared with an existing neuroscience model of the so-called peripersonal space representation
 website: secure-robots.eu/projects/8-multisensory-representation-of-situations/
 
 ---
