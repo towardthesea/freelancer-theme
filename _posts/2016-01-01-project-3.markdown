@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2016-02-01
-img: proposed-nn-selftouch.jpg
+img: secure.png
 alt: image-alt
 project-date: 2016
 client: IIT
