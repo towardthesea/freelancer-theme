@@ -22,6 +22,12 @@ description: The description of the project
 ---
 ```
 
+## Test locally
+ - Run the command on terminal:
+```
+bundle exec jekyll serve
+```
+
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
