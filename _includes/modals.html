@@ -15,8 +15,9 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+							{% if post.modal-id<=3 %}
                             <p>{{ post.description }}</p>
-				<p>Info: <a href="http://{{ post.website }}">{{ post.website }}</a></p>
+							<p>Info: <a href="http://{{ post.website }}">{{ post.website }}</a></p>
                             <ul class="list-inline item-details">
 
                                 <li>With:
@@ -32,12 +33,26 @@
                                     </strong>
                                 </li>
                             </ul>
-			    
+
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+							{% endif %}
                         </div>
                     </div>
+					
                 </div>
+
+
+				<div class="modal-post">
+					<div class="col-lg-8 col-lg-offset-2">
+						<div class="modal-body">
+							<div class="post">
+								{{ post.content }}
+							</div>
+						</div>
+					</div>
+				</div>
             </div>
         </div>
+		
     </div>
 {% endfor %}
