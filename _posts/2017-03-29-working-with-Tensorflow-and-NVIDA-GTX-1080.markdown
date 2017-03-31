@@ -119,7 +119,8 @@ At this step, you should remember:
 Wait for some minutes for the configuration, then:
 ```
 bazel build --config=opt --config=cuda //tensorflow/tools/pip_package:build_pip_package  
-bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
+bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg  
+sudo pip install /tmp/tensorflow_pkg/tensorflow-1.0.1-py2-none-any.whl
 
 ```
 
