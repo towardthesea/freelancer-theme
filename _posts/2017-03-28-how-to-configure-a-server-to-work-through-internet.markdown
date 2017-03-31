@@ -46,6 +46,10 @@ Now, browse to the website [http://whatismyip.org/](http://whatismyip.org/) to l
 ```
 ssh <username>@<internet_router_ip>
 ```
+In order to transfer a port of the remote server <remote_port> into a port of your local machine <local_port> (for instance): 
+```
+ssh -L <local_port>:127.0.0.1:<remote_port> <username>@<internet_router_ip>
+```
 
 However, the internet IP address of your router can change at any time, depending on the policy of your Internet ISP. So it is better to set up a Dynamic DNS service allowing you to link your home IP address to a memorable address.
 
